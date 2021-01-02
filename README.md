@@ -1,8 +1,13 @@
-# Getting Started with Create React App
+## Flashcards app
+
+2-Page React App for editing and viewing custom flashcards.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### To run the app locally
+
+- `npm install`
+- `npm start`
 
 ### 1. `npm install`
 

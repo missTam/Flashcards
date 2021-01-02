@@ -1,0 +1,8 @@
+.horizontal-align {
+  display: flex;
+  justify-content: center;
+}
+
+.card-height {
+  height: 15em;
+}
